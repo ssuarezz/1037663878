@@ -4,4 +4,5 @@ php:
  
  
 script:
+- php error.php
 - php miarchivo.php
